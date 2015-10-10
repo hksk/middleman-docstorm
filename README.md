@@ -1,2 +1,2 @@
 # middleman-docstorm
-middleman doc generator
+Doc Generator extension for Middleman (static & parser)
